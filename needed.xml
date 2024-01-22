@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<remote name="example"
+		fetch="https://github.com/example" />
+  
+ 	<project path="device/xiaomi/raphael" name="device_xiaomi_raphael" remote="example" revision="14" />
+	<project path="kernel/xiaomi/raphael" name="kernel_xiaomi_raphael" remote="example" revision="14" />
+	<project path="vendor/xiaomi/raphael" name="vendor_xiaomi_raphael" remote="egzamle" revision="14" />
+
+</manifest>
